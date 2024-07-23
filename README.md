@@ -1,2 +1,3 @@
 # NEET-data-2024-NTA-analysis
 Neet Data 2024 NTA analysis
+The original data is the centers.csv in the repo i have filtered out all the suspected and non suspected centers from the data that was provided by the NTA. New features have been created according to the cutoff in 2023 and the feature engeenering has benn done 'suspected centers.csv' contains data of suspected centers the center have success rate of students more than 70% and 'non suspected centers.csv' has less than 70%. 'neet data' file contains the code for the filtration and feature engineering and 'comparision' file contains the final report and comparisionof suspected and non suspected centers.
